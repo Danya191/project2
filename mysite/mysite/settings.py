@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'portfolio'
     'surveysystem'
     'authentication'
+    'chat'
 ]
 
 MIDDLEWARE = [
