@@ -27,6 +27,8 @@ urlpatterns = [
     path('Ogoloshennya/', include('Ogoloshennya.urls')),
     path('portfolio/', include('portfolio.urls')),
     path('surveysystem/', include('surveysystem.urls')),
+    path('chat/', include('chat.urls')),
+
     
     
 ]
